@@ -1,0 +1,11 @@
+story,rule,min,max
+User Registration,Username length validation,3,20
+User Registration,Password strength validation,8,128
+Product Catalog,Price range validation,0.01,99999.99
+Product Catalog,Quantity validation,1,1000
+Shopping Cart,Item quantity validation,1,100
+Shopping Cart,Cart total validation,0,50000
+Checkout Flow,Shipping zip code validation,5,10
+Checkout Flow,Credit card validation,13,19
+User Profile,Bio character limit,0,500
+User Profile,Age validation,18,120
